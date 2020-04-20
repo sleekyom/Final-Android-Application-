@@ -2,7 +2,7 @@
 
 - What your app is going to be and why you chose it
 
-My App will be a Simple TODO List which is going to allow user to add items and manage them too.
+My App will be a Simple Shopper List which is going to allow user to add items and manage them too.
 
 Why i chose to develop this app: 
   I decided to use this app as it allow me to implement all i have learnt from the mobile development class and it also flexible that i can add more functionalities beyond what was thought in class.
