@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "948287571979",
+    "firebase_url": "https://shoppinglistmanager-27ce8.firebaseio.com",
+    "project_id": "shoppinglistmanager-27ce8",
+    "storage_bucket": "shoppinglistmanager-27ce8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948287571979:android:e279d749576864641f5f0e",
+        "android_client_info": {
+          "package_name": "com.example.shoppinglistmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948287571979-3qoo9g88dbe2c4sgsoujlr5n823au0g2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY2_OotYxK0aRsa9OsfN0eCB7Bv_SjIJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948287571979-3qoo9g88dbe2c4sgsoujlr5n823au0g2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
