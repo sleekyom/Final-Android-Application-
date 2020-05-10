@@ -4,10 +4,10 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/back_design"
-    android:gravity="center"
     android:orientation="vertical"
-    tools:context=".MainActivity">
+    android:gravity="center"
+    android:background="@drawable/back_design"
+    tools:context=".SignUpActivity">
 
     <ScrollView
         android:layout_width="match_parent"
@@ -22,12 +22,12 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:gravity="center"
-                android:text="Log in"
+                android:text="Sign Up"
                 android:textAppearance="@style/TextAppearance.AppCompat.Large"
                 android:textColor="@android:color/white" />
 
             <EditText
-                android:id="@+id/email_login"
+                android:id="@+id/email_signUp"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_margin="10dp"
@@ -40,7 +40,7 @@
 
 
             <EditText
-                android:id="@+id/password_login"
+                android:id="@+id/password_SignUp"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_margin="10dp"
@@ -52,7 +52,7 @@
                 android:textColorHint="@android:color/white" />
 
             <Button
-                android:id="@+id/btn_signIn"
+                android:id="@+id/btn_signUp"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_margin="10dp"
@@ -73,6 +73,5 @@
                 android:textColor="@android:color/white" />
         </LinearLayout>
     </ScrollView>
-
 
 </LinearLayout>
