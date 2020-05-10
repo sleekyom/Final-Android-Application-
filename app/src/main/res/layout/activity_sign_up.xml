@@ -58,17 +58,17 @@
                 android:layout_margin="10dp"
                 android:background="@drawable/ed_design"
                 android:padding="10dp"
-                android:text="Sign In"
+                android:text="Sign Up"
                 android:textAppearance="@style/TextAppearance.AppCompat.Medium"
                 android:textColor="@android:color/white" />
 
             <TextView
-                android:id="@+id/signUp_txt"
+                android:id="@+id/signIn_txt"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:gravity="center"
                 android:padding="5dp"
-                android:text="Don't have an account? Sign up here"
+                android:text="Already have an account? Sign in here"
                 android:textAppearance="@style/TextAppearance.AppCompat.Small"
                 android:textColor="@android:color/white" />
         </LinearLayout>
