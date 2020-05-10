@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ShoppingListManager</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_email">Enter Email</string>
 </resources>

@@ -1,34 +1,34 @@
 {
   "project_info": {
-    "project_number": "948287571979",
-    "firebase_url": "https://shoppinglistmanager-27ce8.firebaseio.com",
-    "project_id": "shoppinglistmanager-27ce8",
-    "storage_bucket": "shoppinglistmanager-27ce8.appspot.com"
+    "project_number": "314073839929",
+    "firebase_url": "https://shoppinglistmanager-f55ed.firebaseio.com",
+    "project_id": "shoppinglistmanager-f55ed",
+    "storage_bucket": "shoppinglistmanager-f55ed.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:948287571979:android:e279d749576864641f5f0e",
+        "mobilesdk_app_id": "1:314073839929:android:d5018183db1234563650e8",
         "android_client_info": {
           "package_name": "com.example.shoppinglistmanager"
         }
       },
       "oauth_client": [
         {
-          "client_id": "948287571979-3qoo9g88dbe2c4sgsoujlr5n823au0g2.apps.googleusercontent.com",
+          "client_id": "314073839929-i9p9gvtqjle4svr85hndgfkgvg2nmlmd.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCY2_OotYxK0aRsa9OsfN0eCB7Bv_SjIJs"
+          "current_key": "AIzaSyBJHQ4hX2zuWI2dSl5WHSC2HIN7t0F9GEQ"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "948287571979-3qoo9g88dbe2c4sgsoujlr5n823au0g2.apps.googleusercontent.com",
+              "client_id": "314073839929-i9p9gvtqjle4svr85hndgfkgvg2nmlmd.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
